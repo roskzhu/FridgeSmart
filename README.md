@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Fridge Smart - DeltaHacks IX Submission
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**insert images here
 
-## Available Scripts
+# Inspiration
+Ever feel the guilt of throwing out your leftover food? Ever find food in the back of your fridge that you totally forgot about since you didn’t know how to cook it? As students learning to cook for ourselves for the first time, many face the problem of food waste. Whether it's from food being left unused due to not knowing how to include it in a dish, or from leftovers never being finished, food waste has been a recurring problem in Canada. In fact, 2.3 million tonnes of avoidable household food waste is produced in Canada every year.
 
-In the project directory, you can run:
+## What it does
+FridgeSmart is a web application which acts as a recipe making AI. The user takes a picture of their open fridge and uploads it to the website. The machine learning AI then automatically detects what items are in the fridge and outputs them onto an ingredient list. Using this data, another AI produces all possible recipes that can be made with the ingredients. It orders the recipes by whichever ones the user has the most ingredients for. If there are some missing, it'll output them as well so that the user knows exactly what they need to buy and what they don't need to. This helps prevent food waste.
 
-### `npm start`
+## How we built it
+Users upload their images onto a React webapp. The image gets processed through our custom YOLO v8 model hosted on roboflow. After getting a list of ingredients detected, we use the spoonacular API to find recipes, and update the React state.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Challenges we ran into
+-Steep learning curve as we were all new to Javascript and jumped straight to using React and JSX -APIs did not provide a lot of data, and sometimes gave inaccurate readings
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Accomplishments that we're proud of
+-Incorporated machine learning for the first time for some of us! -The fridge animation <3 -Website is visually appealing :)
 
-### `npm test`
+### What we learned
+-We learned about frontend frameworks! -We learned how to integrate APIs!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# What's next for FridgeSmart
+We hope to add an option to manually add ingredients which didn't make it into the picture the user took. We may want to organize the reciples by type of cuisine and recommend the user dishes based on their past cooking selections. We could also consider providing environmentally friendly composting options. Also healthy recipe highlights!
 
-### `npm run build`
+__Built With:__
+- Javascript
+- React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+More information on our [DevPost](https://devpost.com/software/fridgesmart)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Background Art Creds to ArseniXC*
