@@ -17,7 +17,8 @@ Users upload their images onto a React web app. The image gets processed through
 
 ### Accomplishments that we're proud of
 - Incorporated machine learning for the first time for some of us! 
-- The fridge animation <3 -Website is visually appealing :)
+- The fridge animation!
+- Website is visually appealing!
 
 ### What we learned
 - We learned about frontend frameworks!
