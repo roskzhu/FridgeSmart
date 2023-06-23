@@ -34,4 +34,4 @@ __Built With:__
 More information provided on our [DevPost](https://devpost.com/software/fridgesmart).
 Our presentation slides can be found [here](https://docs.google.com/presentation/d/10Ds7oKdDYMz2oKDj0MpJ8OjkEwE8MajuWW2J3WLEeVo/edit?usp=sharing).
 
-*Background Art Creds to ArseniXC*
+*Background Art Creds to ArseniXC.*
