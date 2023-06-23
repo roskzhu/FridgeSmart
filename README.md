@@ -15,13 +15,15 @@ Users upload their images onto a React webapp. The image gets processed through 
 -Steep learning curve as we were all new to Javascript and jumped straight to using React and JSX -APIs did not provide a lot of data, and sometimes gave inaccurate readings
 
 ### Accomplishments that we're proud of
--Incorporated machine learning for the first time for some of us! -The fridge animation <3 -Website is visually appealing :)
+- Incorporated machine learning for the first time for some of us! 
+- The fridge animation <3 -Website is visually appealing :)
 
 ### What we learned
--We learned about frontend frameworks! -We learned how to integrate APIs!
+- We learned about frontend frameworks!
+- We learned how to integrate APIs!
 
 # What's next for FridgeSmart
-We hope to add an option to manually add ingredients which didn't make it into the picture the user took. We may want to organize the reciples by type of cuisine and recommend the user dishes based on their past cooking selections. We could also consider providing environmentally friendly composting options. Also healthy recipe highlights!
+We hope to add an option to manually add ingredients which didn't make it into the picture the user took. We may want to organize the recipes by type of cuisine and recommend the user dishes based on their past cooking selections. We could also consider providing environmentally friendly composting options. Also healthy recipe highlights!
 
 __Built With:__
 - Javascript
