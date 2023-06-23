@@ -1,6 +1,6 @@
 # Fridge Smart - DeltaHacks IX Submission
 
-**insert images here
+<img src="/src/images/presentation_1.png" width="500"> <img src="/src/images/presentation_2.png" width="500"> 
 
 # Inspiration
 Ever feel the guilt of throwing out your leftover food? Ever find food in the back of your fridge that you totally forgot about since you didn’t know how to cook it? As students learning to cook for ourselves for the first time, many face the problem of food waste. Whether it's from food being left unused due to not knowing how to include it in a dish, or from leftovers never being finished, food waste has been a recurring problem in Canada. In fact, 2.3 million tonnes of avoidable household food waste is produced in Canada every year.
@@ -29,6 +29,7 @@ __Built With:__
 - Javascript
 - React
 
-More information on our [DevPost](https://devpost.com/software/fridgesmart)
+More information provided on our [DevPost](https://devpost.com/software/fridgesmart).
+Our presentation slides can be found [here](https://docs.google.com/presentation/d/10Ds7oKdDYMz2oKDj0MpJ8OjkEwE8MajuWW2J3WLEeVo/edit?usp=sharing).
 
 *Background Art Creds to ArseniXC*
