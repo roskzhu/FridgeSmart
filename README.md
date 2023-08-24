@@ -1,6 +1,6 @@
 # Fridge Smart - DeltaHacks IX Submission
 
-<img src="/src/images/home.png" width="500"> 
+<img src="/src/images/home.png" width="800"> 
 
 ## Inspiration
 Ever feel the guilt of throwing out your leftover food? Ever find food in the back of your fridge that you totally forgot about since you didn’t know how to cook it? As students learning to cook for ourselves for the first time, many face the problem of food waste. Whether it's from food being left unused due to not knowing how to include it in a dish, or from leftovers never being finished, food waste has been a recurring problem in Canada. In fact, 2.3 million tonnes of avoidable household food waste is produced in Canada every year.
