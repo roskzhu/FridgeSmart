@@ -7,6 +7,7 @@ Ever feel the guilt of throwing out your leftover food? Ever find food in the ba
 
 ## What it does
 FridgeSmart is a web application which acts as a recipe-making AI. The user takes a picture of their open fridge and uploads it to the website. The machine learning AI then automatically detects what items are in the fridge and outputs them onto an ingredient list. Using this data, another AI produces all possible recipes that can be made with the ingredients. It orders the recipes by whichever ones the user has the most ingredients for. If there are some missing, it'll output them as well so that the user knows exactly what they need to buy and what they don't need to. This helps prevent food waste.
+
 <img src="/src/images/presentation_1.png" width="500"> <img src="/src/images/presentation_2.png" width="500"> 
 
 ## How we built it
