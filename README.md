@@ -1,5 +1,6 @@
 # Fridge Smart - DeltaHacks IX Submission
 
+<img src="/src/images/home.png" width="500"> 
 <img src="/src/images/presentation_1.png" width="500"> <img src="/src/images/presentation_2.png" width="500"> 
 
 ## Inspiration
