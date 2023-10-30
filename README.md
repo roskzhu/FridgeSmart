@@ -1,4 +1,4 @@
-# Fridge Smart - DeltaHacks IX Submission
+# Fridge Smart
 
 <img src="/src/images/home.png" width="800"> 
 
@@ -32,8 +32,3 @@ We hope to add an option to manually add ingredients which didn't make it into t
 __Built With:__
 - Javascript
 - React
-
-More information provided on our [DevPost](https://devpost.com/software/fridgesmart).
-Our presentation slides can be found [here](https://docs.google.com/presentation/d/10Ds7oKdDYMz2oKDj0MpJ8OjkEwE8MajuWW2J3WLEeVo/edit?usp=sharing).
-
-*Background Art Creds to ArseniXC.*
